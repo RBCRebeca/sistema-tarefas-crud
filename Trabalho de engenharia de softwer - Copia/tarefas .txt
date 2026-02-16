@@ -1,0 +1,75 @@
+✅ O que você deve fazer
+1️⃣ Criar o repositório no GitHub
+
+Criar um repositório público (X)
+
+
+Adicionar o arquivo README.md
+
+2️⃣ Montar o Kanban
+
+Ir na aba Projects
+
+Criar um quadro com 3 colunas:
+
+To Do
+
+In Progress
+
+Done
+
+Criar os cards de tarefas
+
+3️⃣ Criar o sistema
+
+Criar as pastas:
+
+/src
+
+/tests
+
+/docs
+
+Implementar um sistema simples:
+
+CRUD de tarefas ou sistema de login
+
+4️ Criar testes
+
+Criar testes automatizados
+
+Usar PyTest (Python) ou equivalente
+
+5 Configurar GitHub Actions
+ 
+Criar o pipeline de CI
+
+Automatizar os testes
+
+6️ Fazer commits
+
+Fazer mínimo 10 commits
+
+Mensagens claras (ex: cria sistema de tarefas, adiciona testes, etc.)
+
+7️⃣ Simular mudança de escopo
+
+Adicionar nova funcionalidade (ex: prioridade de tarefas)
+
+Criar novo card no Kanban
+
+Fazer commit
+
+Explicar a mudança no README.md
+
+8️⃣ Entregas finais
+
+📄 Documento PDF (parte teórica)
+
+🌐 Link do GitHub
+
+🎥 Vídeo de até 4 minutos
+
+🧠 Resumo em 1 frase:
+
+Criar um projeto no GitHub com Kanban, código funcional, testes automáticos, GitHub Actions, commits organizados, mudança de escopo documentada e apresentar tudo em PDF + vídeo.
